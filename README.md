@@ -28,3 +28,14 @@ Step 3:
 ```
 Step 4:
     You should now find yourself in the main menu of KIAUH. You will see several actions to choose from depending on what you want to do. To choose an action, simply type the corresponding number into the "Perform action" prompt and confirm by hitting ENTER.
+
+## KAMP
+```
+ cd
+ 
+ git clone https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
+ 
+ ln -s ~/Klipper-Adaptive-Meshing-Purging/Configuration printer_data/config/KAMP
+
+ cp ~/Klipper-Adaptive-Meshing-Purging/Configuration/KAMP_Settings.cfg ~/printer_data/config/KAMP_Settings.cfg
+```
