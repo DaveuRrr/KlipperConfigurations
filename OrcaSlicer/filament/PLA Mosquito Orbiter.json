@@ -1,0 +1,43 @@
+{
+    "additional_cooling_fan_speed": [
+        "100"
+    ],
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "filament_flow_ratio": [
+        "1.0007"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "PLA Mosquito Orbiter"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA Mosquito Orbiter",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.015"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.0.2.0"
+}
